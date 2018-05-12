@@ -1,2 +1,2 @@
-# Hello-world-JS
-Ruta Rinkeviciute
+# Ruta Rinkeviciute
+
